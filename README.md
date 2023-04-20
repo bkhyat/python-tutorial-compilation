@@ -1,4 +1,4 @@
-Python Tutorials
+Your journey towards learning Python
 ================================================================
 This is a compilation of links to multiple YouTube videos, official documentations, online threads, and articles from
 multiple sources to learn core python along with Django and Django Rest Framework towards becoming a backend developer.
