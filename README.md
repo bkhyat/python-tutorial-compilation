@@ -49,6 +49,12 @@ Core Python
     2. [Python JSON Module *Official Documentations*](https://docs.python.org/3/library/json.html) 🔐
     3. [Introduction to Python Date time module](https://youtu.be/eirjjyP2qcQ) ⏳
 
+## BDD Automation Testing with Python
+
+1. [Learn BDD with Python Behave and Selenium](https://www.youtube.com/watch?v=JIyvAFBx2Fw&list=PLUDwpEzHYYLsARXz1o3Ldt1FnvRbvlxsS)  
+2. [Python Selenium official documentation](https://selenium-python.readthedocs.io/)  
+3. [Python Behave official documentation](https://behave.readthedocs.io/en/stable/)
+
 Web framework
 ----------------------------------------------------------------
 
